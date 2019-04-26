@@ -66,6 +66,7 @@ blockquote p {
 footer {
     background: #f5f5f5;
     padding: 1em;
+    font-size: 10pt;
 }
 footer p {
     margin: 0;
