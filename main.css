@@ -62,3 +62,11 @@ blockquote:before {
 blockquote p {
     display: inline;
 }
+
+footer {
+    background: #f5f5f5;
+    padding: 1em;
+}
+footer p {
+    margin: 0;
+}
